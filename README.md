@@ -6,6 +6,10 @@ The model is predicting very accurate boundaries and masks of the objects and ge
 
 The attached are the results of the masks of objects for the images.
 
-![Puppies ](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/tasks/car.jpg)
+![puppies] (https://github.com/satyasri77/Segment_anything/blob/main/Images/Unknown.png)
 
-![Puuppies mask](https://github.com/satyasri77/Segment_anything/blob/main/Unknown.png)
+![puppies mask] (https://github.com/satyasri77/Segment_anything/blob/main/Images/puppies_SAM.png) 
+
+![Car ](https://github.com/satyasri77/Segment_anything/blob/main/Images/Car.png)
+
+![Car mask](https://github.com/satyasri77/Segment_anything/blob/main/Images/SAM_car.png)
