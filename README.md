@@ -8,4 +8,4 @@ The attached are the results of the masks of objects for the images.
 
 ![Puppies ](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers/tasks/car.jpg)
 
-![Puuppies mask]()
+![Puuppies mask](https://github.com/satyasri77/Segment_anything/blob/main/Unknown.png)
